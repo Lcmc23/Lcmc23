@@ -1,6 +1,6 @@
 # Hi, Lucas Cabral here!
 
-Knowledge in Computer Networks, including TCP/IP networks, infrastructure, structured cabling, network device configuration, analysis, identification and hardware maintenance. Planning, Design and Infrastructure of internal networks. Configuration and maintenance of network services (servers). Has knowledge in Cloud Computing (AWS). Administration of Linux users, servers and systems. Configuration of Cisco equipment, switches and routers.
+Knowledge in Computer Networks, including TCP/IP networks, infrastructure, structured cabling, network device configuration, analysis, identification and hardware maintenance. Planning, Design and Infrastructure of internal networks. Configuration and maintenance of network services (servers). Has knowledge in Cloud Computing. Administration of Linux users, servers and systems. Configuration of Cisco equipment, switches and routers.
 
    🌎 **"Discipline is the key to success."** 🧠
 
