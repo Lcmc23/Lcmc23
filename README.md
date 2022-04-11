@@ -1,6 +1,6 @@
 # Hi, Lucas Cabral here!
 
-Knowledge in Computer Networks, including TCP / IP networks, infrastructure, structured cabling, network device configuration, analysis, identification and maintenance of hardware. Planning, Design and Infrastructure of Internal Networks. Has knowledge in Cloud Computing. Administration of users, servers, Linux and Windows systems.
+Studied Electronics at the Federal Institute of Education, Science and Technology of São Paulo; Graduated in Computer Networks by SENAI; Currently studying Information Systems at FIAP.
 
    🌎 **"Discipline is the key to success."** 🧠
 
