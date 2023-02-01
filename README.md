@@ -9,7 +9,7 @@ Studied Electronics at the Federal Institute of Education, Science and Technolog
 
  Reach me out  👇
  
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-cabral-42121b206/)](https://www.linkedin.com/in/lucas-cabral-42121b206/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-cabral-42121b206/)](www.linkedin.com/in/lcmc23)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511947082793)](https://api.whatsapp.com/send?phone=5511947082793)
 
 ## Knowledge in:
