@@ -2,15 +2,7 @@
 
 Studied Electronics at the Federal Institute of Education, Science and Technology of São Paulo; Graduated in Computer Networks by SENAI; Currently studying Information Systems at FIAP.
 
-   🌎 **"Discipline is the key to success."** 🧠
-
-
-- 📫 How to **[contact](mailto:lucascabralmendes.correa@gmail.com)** me **[lucascabralmendes.correa@gmail.com](mailto:lucascabralmendes.correa@gmail.com).**
-
- Reach me out  👇
- 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-cabral-42121b206/)](www.linkedin.com/in/lcmc23)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511947082793)](https://api.whatsapp.com/send?phone=5511947082793)
 
 ## Knowledge in:
 
@@ -84,18 +76,20 @@ Studied Electronics at the Federal Institute of Education, Science and Technolog
 
 ### :pushpin: Other knowledge:
 
-:white_check_mark: Information Security (ISO 27001 and LGPD).
+:white_check_mark: Python.
 
-:white_check_mark: Office 365 Environment Administration.
+:white_check_mark: Terraform.
+
+:white_check_mark: Google Cloud.
 
 :white_check_mark: Oracle Cloud.
 
 :white_check_mark: Cloudflare.
 
-:white_check_mark: Terraform.
+:white_check_mark: Office 365 Environment Administration.
 
 :white_check_mark: Kaspersky Endpoint Security Cloud Administrator.
 
-:white_check_mark: Python.
-
 :white_check_mark: DevOps & Agile Culture.
+
+:white_check_mark: Information Security (ISO 27001 and LGPD).
